@@ -90,7 +90,7 @@ a.active{
 } */
 
 #home-header::before {
-    background: url(images/homebg1.jpg) center center;
+    background: url(Img/homebg1.jpg) center center;
     background-size: cover;
     
     content: "";
@@ -104,7 +104,7 @@ a.active{
 }
 
 #about-header::before {
-    background: url(images/aboutbg.jpg) center center;
+    background: url(Img/aboutbg.jpg) center center;
     background-size: cover;
     content: "";
     position: absolute;
@@ -128,7 +128,7 @@ a.active{
 } */
 
 #contact-header::before {
-    background: url(images/contactbg.jpg) center center;
+    background: url(Img/contactbg.jpg) center center;
     background-size: cover;
     content: "";
     position: absolute;
