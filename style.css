@@ -57,7 +57,7 @@ a.active{
     font-weight: bold;
 }
 
-@media only screen and (min-width:1200px) {
+@media only screen and (min-width:1000px) {
 .navigation {
     display:flex;
     background-color: #EFECA5;
@@ -87,17 +87,17 @@ a.active{
 }
 .home-para h1{
     margin: 20px;
-    margin-top: 40vh;
+    margin-top: 80vh;
     padding:20px;
     text-align:center;
 }
 .expert h2{
     padding: 20px;
-    margin-top:40vh;
+    margin-top:80vh;
     text-align: center;
 }
 #contact_footer{
-    margin-top:50vh;
+    margin-top:80vh;
 }
 
 }
