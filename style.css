@@ -57,11 +57,11 @@ a.active{
     font-weight: bold;
 }
 
-@media only screen and (min-width:1200px){
+@media only screen and (max-width:1500px){
 .navigation {
     display:flex;
     background-color: #EFECA5;
-color: yellow;
+    color: yellow;
 }
 
 .navigation img {
