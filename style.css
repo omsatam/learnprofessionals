@@ -85,15 +85,19 @@ a.active{
     font-weight: bold;
     cursor:pointer;
 }
-.home-para {
+.home-para h1{
     margin: 20px;
-    margin-top: 80px;
-
+    margin-top: 100px;
+    padding:20px;
+    text-align:center;
 }
-.expert h2 {
+.expert h2{
     padding: 20px;
-    padding-top:80px;
+    padding-top:100px;
     text-align: center;
+}
+#contact_footer{
+    margin-top:30vh;
 }
 }
 
