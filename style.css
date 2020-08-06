@@ -87,19 +87,19 @@ a.active{
 }
 .home-para h1{
     margin: 20px;
-    margin-top: 30vh;
+    margin-top: 40vh;
     padding:20px;
     text-align:center;
 }
 .expert h2{
     padding: 20px;
-    margin-top:30vh;
+    margin-top:40vh;
     text-align: center;
 }
-form{
-    margin-bottom:50vh;
-	
+#contact_footer{
+    margin-top:50vh;
 }
+
 }
 
 #home-header::before {
