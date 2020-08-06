@@ -57,10 +57,11 @@ a.active{
     font-weight: bold;
 }
 
-@media only screen and (min-width:1000px) {
+@media only screen and (min-width:1200px){
 .navigation {
     display:flex;
     background-color: #EFECA5;
+color: yellow;
 }
 
 .navigation img {
@@ -96,8 +97,8 @@ a.active{
     margin-top:80vh;
     text-align: center;
 }
-#contact_footer{
-    margin-top:80vh;
+form{
+    margin-bottom:80vh;
 }
 
 }
