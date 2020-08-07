@@ -68,8 +68,8 @@ a.active{
 
 .navigation img{
     top:2px;
-    width: 90px;
-    height: 90px;
+    width: 75px;
+    height: 75px;
     left:0;
     bottom:2px;
 }
@@ -84,25 +84,21 @@ a.active{
     display: block;
     padding: 18px;
 
-    font-size: 35px;
+    font-size: 30px;
     font-weight: bold;
     cursor:pointer;
 }
 .home-para h1{
     margin: 20px;
-    margin-top: 40vh;
+    margin-top: 20vh;
     padding:20px;
     text-align:center;
 }
 .expert h2{
     padding: 20px;
-    margin-top:40vh;
+    margin-top:20vh;
     text-align: center;
 }
-form{
-    margin-bottom:80vh;
-}
-
 }
 
 #home-header::before {
