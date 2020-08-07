@@ -68,8 +68,8 @@ a.active{
 
 .navigation img{
     top:2px;
-    width: 75px;
-    height: 75px;
+    width: 70px;
+    height: 70px;
     left:0;
     bottom:2px;
 }
@@ -99,6 +99,7 @@ a.active{
     margin-top:20vh;
     text-align: center;
 }
+	
 }
 
 #home-header::before {
@@ -284,7 +285,7 @@ a.active{
 
 .expert-friends img{
     width:40vw;
-    height:40vh;
+    height:300px;
     margin:0 10px;
 }
 
